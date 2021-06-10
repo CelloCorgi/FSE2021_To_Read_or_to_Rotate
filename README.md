@@ -28,5 +28,5 @@ We cannot publish our participant data on GitHub. If interested in accessing par
 
 ## Non Author Materials: 
 
-For this study, we used several validated assessments that we are unable to post here due to the assessments’ policies. For more information on the SCS1 please see, [this link](https://static1.squarespace.com/static/5c33859e620b850e3bd43419/t/5c377c8503ce646c6364997c/1547140229403/SCS1+Info+Sheet.pdf). For the PSVT:R, please contact So Yoon Yoon. Finally, we are unable to share the standardized Sorby spatial training materials. If interested, see https://www.higheredservices.org/ for more information about the spatial training materials.
+For this study, we used several validated assessments that we are unable to post here due to the assessments’ policies. For more information on the SCS1 please see, [this link](https://static1.squarespace.com/static/5c33859e620b850e3bd43419/t/5c377c8503ce646c6364997c/1547140229403/SCS1+Info+Sheet.pdf) or [this link](https://github.com/CelloCorgi/FSE2021_To_Read_or_to_Rotate/blob/main/Participant%20Forms/SCS1_Info_Sheet.pdf). For the PSVT:R, please contact So Yoon Yoon. Finally, we are unable to share the standardized Sorby spatial training materials. If interested, see https://www.higheredservices.org/ for more information about the spatial training materials.
 
