@@ -16,10 +16,10 @@ The preprint of the paper can be found here on gitHub or on arXiv FIXME.
 
 ## Subfolder directories:
 
-* Reading Training: This contains a list of all lecture topics and associated CS readings. It also contains slide decks for each reading training session. Identifying links have been removed for blind review.
+* Reading Training: This contains a list of all lecture topics and associated CS readings. It also contains slide decks for each reading training session.
 * Participant Forms: This has the qualitative and quantitative assessments given during the pre and post-tests that we can share.
 * Data Analysis: Contains the scripts used to analyze our data.
-* Recruitment Information: Contains recruitment emails and pre-screening form
+* Recruitment Information: Contains recruitment flyers and pre-screening form
 
 
 ## Accessing Participant Data: 
