@@ -12,7 +12,7 @@ In our reading training, we teach strategies for summarizing scientific papers a
 
 ## Paper Authors:
 
-* [Madeline Endres](https://madelineendres.com): <endremad@umich.edu>
+* [Madeline Endres](madelineendres.com): <endremad@umich.edu>
 * [Madison Fansher](https://lsa.umich.edu/psych/people/graduate-students/mfansher.html): <mfansher@umich.edu>
 * [Priti Shah](https://lsa.umich.edu/psych/people/faculty/priti.html): <priti@umich.edu>
 * [Westley Weimer](https://web.eecs.umich.edu/~weimerw/): <weimerw@umich.edu>
