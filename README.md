@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the replication materials for the paper To Read or To Rotate? Comparing the Effects of Technical Reading Training and Spatial Skills Training on Novice Programming Ability as accepted at FSE 2021.
+This repository contains the replication materials for the paper To Read or To Rotate? Comparing the Effects of Technical Reading Training and Spatial Skills Training on Novice Programming Ability as accepted at [ESEC/FSE 2021](https://2021.esec-fse.org/).
 
 ## Paper Abstract:
 
