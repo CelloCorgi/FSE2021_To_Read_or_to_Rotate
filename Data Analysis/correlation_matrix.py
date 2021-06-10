@@ -4,6 +4,9 @@ from scipy.stats import ttest_ind, ttest_rel, pearsonr, spearmanr
 import matplotlib.pyplot as plt  
 import seaborn as sns
 
+"""
+This script makes a correlation matrix of our major assessment scores
+"""
 
 preYoon = "Pre-test: Yoon (Spatial X / 30)"
 prePFT = "Pre-test: PFT (x / 20)"
