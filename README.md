@@ -18,10 +18,13 @@ The preprint of the paper can be found here on gitHub or on arXiv FIXME.
 
 * Reading Training: This contains a list of all lecture topics and associated CS readings. It also contains slide decks for each reading training session. Identifying links have been removed for blind review.
 * Participant Forms: This has the qualitative and quantitative assessments given during the pre and post-tests that we can share.
-* Participant Data: This contains a spreadsheet with select annonyized participant data. Please contact Madeline Endres (endremad@umich.edu) if interested in using the complete data from this experiment.
 * Data Analysis: Contains the scripts used to analyze our data.
 * Recruitment Information: Contains recruitment emails and pre-screening form
-* IRB information: Contains our full accepted IRB application
+
+
+## Accessing Participant Data: 
+
+We cannot publish our participant data on GitHub. If interested in accessing participant data, please contact Madeline Endres at endremad@umich.edu and we can work on sharing the data with the permission of our IRB.
 
 ## Non Author Materials: 
 
