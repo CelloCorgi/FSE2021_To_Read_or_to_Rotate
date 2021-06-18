@@ -19,7 +19,7 @@ In our reading training, we teach strategies for summarizing scientific papers a
 
 ## Paper Pre-print:
 
-The preprint of the paper can be found here on gitHub or on arXiv FIXME.
+The preprint of the paper can be found [here](https://github.com/CelloCorgi/FSE2021_To_Read_or_to_Rotate/blob/main/EndresFSE20211Preprint.pdf) on gitHub.
 
 ## Subfolder directories:
 
